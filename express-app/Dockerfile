@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 4567
 
-CMD ["node" , "express.js"]
+CMD ["node", "express.js"]
